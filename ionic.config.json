@@ -1,0 +1,7 @@
+{
+  "name": "carbonion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
